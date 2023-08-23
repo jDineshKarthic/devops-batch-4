@@ -1,2 +1,6 @@
 git init
 git status
+git branch
+git log
+git clone <url>
+git remote -v
